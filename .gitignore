@@ -1,0 +1,5 @@
+build/
+.dep/
+.vs/
+*.user
+.DS_Store
